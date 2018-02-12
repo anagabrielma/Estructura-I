@@ -1,0 +1,98 @@
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\obj\Debug\LAB1_ANA_EDWIN.csprojResolveAssemblyReference.cache
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\obj\Debug\LAB1_ANA_EDWIN.csproj.CoreCompileInputs.cache
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\ApplicationInsights.config
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\LAB1_ANA_EDWIN.dll.config
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\LAB1_ANA_EDWIN.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\LAB1_ANA_EDWIN.pdb
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Antlr3.Runtime.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.Web.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Newtonsoft.Json.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Helpers.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Mvc.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Optimization.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Razor.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\WebGrease.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Helpers.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Mvc.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Optimization.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Razor.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Antlr3.Runtime.pdb
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Newtonsoft.Json.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.Web.xml
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\obj\Debug\LAB1_ANA_EDWIN.dll
+C:\Users\Ana Gabriel Morales\Desktop\LABORATORIOS ESTRUCTURA I\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\obj\Debug\LAB1_ANA_EDWIN.pdb
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\ApplicationInsights.config
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\LAB1_ANA_EDWIN.dll.config
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\LAB1_ANA_EDWIN.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\LAB1_ANA_EDWIN.pdb
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Antlr3.Runtime.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.Web.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Newtonsoft.Json.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Helpers.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Mvc.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Optimization.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Razor.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\WebGrease.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Helpers.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Mvc.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Optimization.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.Razor.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Antlr3.Runtime.pdb
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Newtonsoft.Json.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\Microsoft.AI.Web.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\obj\Debug\LAB1_ANA_EDWIN.csprojResolveAssemblyReference.cache
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\obj\Debug\LAB1_ANA_EDWIN.csproj.CoreCompileInputs.cache
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\obj\Debug\LAB1_ANA_EDWIN.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\LAB1_ANA_EDWIN\LAB1_ANA_EDWIN\obj\Debug\LAB1_ANA_EDWIN.pdb
