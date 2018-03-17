@@ -1,0 +1,42 @@
+{
+  "nodo1": {
+	"noPartido": 5,
+	"FechaPartido": "20180617",
+	"Grupo": "F",
+	"Pais1": "Alemania",
+  "Pais2": "México",
+  "Estadio": "Luzhniki Stadium"
+  },
+  "nodo2": {
+	"noPartido": 1,
+	"FechaPartido": "20180622",
+	"Grupo": "D",
+	"Pais1": "Nigeria",
+    "Pais2": "Islandia",
+    "Estadio": "Volgograd Arena"
+  },
+ "nodo3": {
+	"noPartido": 8,
+	"FechaPartido": "20180628",
+	"Grupo": "H",
+	"Pais1": "Japón",
+    "Pais2": "Polonia",
+    "Estadio": "Volgograd Arena"
+  },
+ "nodo4": {
+	"noPartido": 9,
+	"FechaPartido": "20180624",
+	"Grupo": "H",
+	"Pais1": "Polonia",
+    "Pais2": "Colombia",
+    "Estadio": "Kazan Arena"
+  },
+ "nodo5": {
+	"noPartido": 7,
+	"FechaPartido": "20180616",
+	"Grupo": "C",
+	"Pais1": "Perú",
+    "Pais2": "Dinamarca",
+    "Estadio": "Mordovia Arena"
+  },
+}
