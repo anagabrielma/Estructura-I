@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+
+<body>
+    
+    @using (Html.BeginForm("Login", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+    <div>
+        <div class="form-horizontal">
+            <input type="text" name="Username" />
+            <input type="password" name="Password" />
+            <input type="submit" value="Login" />
+        </div>
+            <div>
+                @Html.ActionLink("Resgistrarse", "Registrar", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+
+            <div>
+                @Html.ActionLink("Ir a Home", "Index", "Home", new { area = ""},new { @class = "navbar-brand"})
+            </div>
+      
+
+    </div>
+        }
+   
+</body>
+}
+
